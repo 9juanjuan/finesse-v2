@@ -10,8 +10,11 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-community/datetimepicker": "^2.1.0",
     "react": "16.9.0",
-    "react-native": "0.61.5"
+    "react-native": "0.61.5",
+    "react-native-chart-kit": "^4.4.1",
+    "react-native-table-component": "^1.2.1"
   },
   "devDependencies": {
     "@babel/core": "7.8.3",
